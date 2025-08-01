@@ -17,7 +17,7 @@ A step by step series of examples that tell you how to get a development env run
 6. Login User
 	6.1. User Credentials: 
 		Email:
- igentaawaludin@gmail@gmail.com
+                igentaawaludin@gmail.com
 		Password: password
 	6.2. Admin Credentials:
 		Email: admin@tepang.com
